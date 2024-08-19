@@ -13,7 +13,7 @@
 					starty: 1
 				},
 			 	{
-					clue: "Homer wrote more than one of these.",
+					clue: "One of Homer's larger works.",
 					answer: "epic",
 					position: 7,
 					orientation: "across",
@@ -61,7 +61,7 @@
 					starty: 4
 				},
 				{
-					clue: "Right now, you have a ____ for both down and accross clues.",
+					clue: "Right now, you have a ____ for both down and across clues.",
 					answer: "list",
 					position: 16,
 					orientation: "across",
@@ -189,7 +189,7 @@
 					starty: 12
 				},
 				{
-					clue: "They called these STDs when I was a kid.",
+					clue: "They called this an STD when I was a kid.",
 					answer: "sti",
 					position: 41,
 					orientation: "across",
@@ -221,7 +221,7 @@
 					starty: 1
 				},
 				{
-					clue: "anacondas and pythons are both one of these",
+					clue: "anacondas and pythons or a fluffy accessory",
 					answer: "boa",
 					position: 4,
 					orientation: "down",
@@ -349,7 +349,7 @@
 					starty: 9
 				},
 				{
-					clue: "as X is to twitter, so Tailand is to ____",
+					clue: "as X is to twitter, so Thailand is to ____",
 					answer: "siam",
 					position: 31,
 					orientation: "down",
