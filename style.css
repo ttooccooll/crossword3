@@ -85,6 +85,7 @@ ul.clue-done {
   float: left;
   width: 48%;
   align-items: center;
+  margin-bottom: 0;
 }
 #puzzle-clues {
   float: left;
